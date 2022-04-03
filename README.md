@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Google Summer of Code**
 
-- 💬 Ask me about **Python,SQL,Bash Scripting**
+- 💬 Ask me about **Python,SQL,Big Data**
 
 - 📫 How to reach me **tanishkumar473@gmail.com**
 
