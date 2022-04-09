@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Python,SQL,Big Data**
 
-- 📫 How to reach me **tanishkumar473@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tanish-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanish-kumar" height="30" width="40" /></a>
