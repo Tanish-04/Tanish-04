@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanish-04&label=Profile%20views&color=0e75b6&style=flat" alt="tanish-04" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning** and **Data Engineering**
+- 🌱 I’m a **Full Stack Developer** and currently learning **Machine Learning** and **Data Engineering**
 
-- 💬 Ask me about **Python,SQL,ML,Big Data**
+- 💬 Ask me about **backend,Python,SQL,ML,Big Data**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
