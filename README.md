@@ -5,7 +5,7 @@
 
 - 🌱 I’m a **Full Stack Developer** and currently learning **Machine Learning** and **Data Engineering**
 
-- 💬 Ask me about **backend,Python,SQL,ML,Big Data**
+- 💬 Ask me about **Backend,Python,SQL,ML,Big Data**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
